@@ -1,10 +1,12 @@
 {
-  "name": "nft-tickets-token",
+  "name": "nft-ticket-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "blockchain": "pnpm -F \"blockchain\""
+    "blockchain": "pnpm -F \"blockchain\"",
+    "frontend": "pnpm -F \"frontend\"",
+    "backend": "pnpm -F \"backend\""
   },
   "keywords": [],
   "author": "",

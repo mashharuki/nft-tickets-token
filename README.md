@@ -9,5 +9,11 @@ NFTチケットアプリを構築するためのサンプルリポジトリで�
     pnpm blockchain compile
   ```
 
+- 型情報の生成
+
+  ```bash
+  pnpm frontend type
+  ```
+
 ### 参考文献
 1. [pnpm で monorepo プロジェクトを構築する](https://zenn.dev/wakamsha/articles/construct-monorepo-with-pnpm)
