@@ -1,0 +1,17 @@
+{
+  "name": "nft-tickets-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "blockchain": "pnpm -F \"blockchain\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "pnpm": "7.20.0",
+    "npm": "please_use_pnpm_instead"
+  },
+  "packageManager": "pnpm@7.20.0"
+}

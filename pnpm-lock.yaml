@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+importers:
+
+  pkgs/blockchain:
+    specifiers:
+      '@openzeppelin/contracts': ^4.9.2
+    dependencies:
+      '@openzeppelin/contracts': 4.9.2
+
+packages:
+
+  /@openzeppelin/contracts/4.9.2:
+    resolution: {integrity: sha512-mO+y6JaqXjWeMh9glYVzVu8HYPGknAAnWyxTRhGeckOruyXQMNnlcW6w/Dx9ftLeIQk6N+ZJFuVmTwF7lEIFrg==}
+    dev: false
